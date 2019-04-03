@@ -1,0 +1,9 @@
+name: StatuetteGenerator
+author: CactusCata
+version: 1.0.0
+main: fr.cactuscata.statuettegenerator.StatuetteGenerator
+
+commands:
+  
+  lock:
+  as:
